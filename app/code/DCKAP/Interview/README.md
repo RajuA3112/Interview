@@ -2,17 +2,12 @@
 
     ``dckap/module-interview``
 
- - [Main Functionalities](#markdown-header-main-functionalities)
+ - [Magento platform compatibility](#markdown-header-main-compatibility)
  - [Installation](#markdown-header-installation)
- - [Configuration](#markdown-header-configuration)
  - [Specifications](#markdown-header-specifications)
- - [Attributes](#markdown-header-attributes)
 
 ## Magento platform compatibility
   - Open Source (CE): 2.3.3, 2.3.4
-
-## Main Functionalities
-
 
 ## Installation
 \* = in production please use the `--keep-generated` option
@@ -37,11 +32,6 @@
  - Flush the cache by running `php bin/magento cache:flush`
 
 
-## Configuration
-
-
-
-
 ## Specifications
 
  - Controller
@@ -49,9 +39,3 @@
 
  - Controller
 	- adminhtml > dckap_interview/index/index
-
-
-## Attributes
-
-
-
