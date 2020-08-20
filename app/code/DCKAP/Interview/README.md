@@ -8,8 +8,8 @@
  - [Specifications](#markdown-header-specifications)
  - [Attributes](#markdown-header-attributes)
 
-##Magento platform compatibility
-Open Source (CE): 2.3.3, 2.3.4
+## Magento platform compatibility
+  - Open Source (CE): 2.3.3, 2.3.4
 
 ## Main Functionalities
 
