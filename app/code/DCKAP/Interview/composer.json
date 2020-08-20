@@ -1,0 +1,22 @@
+{
+    "name": "dckap/module-interview",
+    "description": "",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Raju A",
+            "email": "raju.a3112@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DCKAP\\Interview\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
